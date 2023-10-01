@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1> <?php  echo "$message" ?></h1>
-
+<h1>  MY NAME IS RIZWAN </h1>
     
 </body>
 </html>
